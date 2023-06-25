@@ -41,9 +41,10 @@ Le composant `MatrixCalculation` permet d'effectuer des opérations sur les matr
 1. Assurez-vous d'avoir Node.js installé sur votre machine.
 2. Clonez ce dépôt Git sur votre ordinateur.
 3. Ouvrez une invite de commande et naviguez jusqu'au répertoire du projet.
-4. Exécutez la commande `npm install` pour installer les dépendances.
-5. Exécutez la commande `npm start` pour démarrer l'application.
-6. Ouvrez votre navigateur et accédez à l'URL `http://localhost:3000` pour voir les calculatrices en action.
+4. Allez sur la branche master du projer (git pull master puis git checkout master)
+5. Exécutez la commande `npm install` pour installer les dépendances.
+6. Exécutez la commande `npm start` pour démarrer l'application.
+7. Ouvrez votre navigateur et accédez à l'URL `http://localhost:3000` pour voir les calculatrices en action.
 
 N'hésitez pas à explorer et à utiliser les différentes calculatrices pour effectuer des calculs simples et av
 
