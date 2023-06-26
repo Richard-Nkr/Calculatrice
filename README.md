@@ -1,5 +1,3 @@
-Bien sûr ! Voici un exemple de contenu pour le README :
-
 # Calculatrices
 
 Ce projet contient trois calculatrices avec différentes fonctionnalités. Les calculatrices sont développées en utilisant React.js et sont réparties dans différents fichiers du projet.
@@ -39,17 +37,11 @@ Le composant `MatrixCalculation` permet d'effectuer des opérations sur les matr
 ## Comment exécuter le projet
 
 1. Assurez-vous d'avoir Node.js installé sur votre machine.
-2. Clonez ce dépôt Git sur votre ordinateur.
-3. Ouvrez une invite de commande et naviguez jusqu'au répertoire du projet.
-4. Allez sur la branche master du projer (git pull master puis git checkout master)
-5. Exécutez la commande `npm install` pour installer les dépendances.
-6. Exécutez la commande `npm start` pour démarrer l'application.
-7. Ouvrez votre navigateur et accédez à l'URL `http://localhost:3000` pour voir les calculatrices en action.
+2. Extraire le projet ZIP.
+3. Ouvrez le projet sur un éditeur de code (VS Code par exemple)
+4. Ouvrez un terminal et exécutez la commande `npm install` pour installer les dépendances.
+5. Exécutez la commande `npm start` pour démarrer l'application.
+6. Ouvrez votre navigateur et accédez à l'URL `http://localhost:3000` pour voir les calculatrices en action.
 
-N'hésitez pas à explorer et à utiliser les différentes calculatrices pour effectuer des calculs simples et av
 
-ancés, ainsi que des conversions d'unités de mesure.
-
-C'est tout ! Vous êtes maintenant prêt à utiliser les calculatrices. Amusez-vous bien !
-
-*Note : Assurez-vous d'avoir une compréhension de base des opérations mathématiques et des concepts impliqués dans chaque calculatrice pour une utilisation appropriée.*
+C'est tout ! 
